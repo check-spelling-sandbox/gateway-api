@@ -585,7 +585,7 @@ plugin.
 
 ##### Design considerations
 
-This is already part of the API pattern, but is being lifted to more prominience
+This is already part of the API pattern, but is being lifted to more prominence
 here.
 
 #### Standard status struct
